@@ -1,2 +1,5 @@
 dataset/
+**/.idea
 **/.DS_Store
+**.json
+**.pickle
